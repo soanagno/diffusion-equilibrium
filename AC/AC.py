@@ -328,7 +328,7 @@ class PhysicsInformedNN():
                     h = plt.scatter(tt, xx, c=zz, s=8, cmap=cmap)
                     plt.xlim(0, 1)
                     plt.ylim(0, 1)
-                    plt.gca().set_aspect(0.5)
+                    plt.gca().set_aspect(1.0)
                     plt.colorbar()
                     # plt.colorbar().set_ticks(np.linspace(zz.min()+.005, zz.max()-.005, 5).round(2))
                     plt.xticks([0, 0.25, 0.5, 0.75, 1])
