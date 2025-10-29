@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/28123296-45eb-4550-81bd-55ea81d7beea
+
 
 
 # Learning in PINNs: Phase transition, diffusion equilibrium, and generalization
